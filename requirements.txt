@@ -1,0 +1,10 @@
+# requirements.txt
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+requests
+insightface
+onnxruntime
+opencv-python
+numpy
